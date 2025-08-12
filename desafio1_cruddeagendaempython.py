@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Início do desafio 1.
-# Sistema criado para gerenciar contatos, usando lógica de programação,e CRUD.
+# Sistema criado para gerenciar contatos, usando lógica de programação, e CRUD.
 
 
 # ESTRUTURA DE DADOS: Lista para armazenar os contatos.
